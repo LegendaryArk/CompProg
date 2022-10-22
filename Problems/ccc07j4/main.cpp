@@ -9,17 +9,11 @@ int main() {
 	getline(cin, s1);
 	getline(cin, s2);
 
-	cout << s1 << "\t" << s2 << "\n";
-
 	 s1.erase(remove(s1.begin(), s1.end(), ' '), s1.end());
 	 s2.erase(remove(s2.begin(), s2.end(), ' '), s2.end());
 
-	cout << s1 << "\t" << s2 << "\n";
-
 	sort(s1.begin(), s1.end());
 	sort(s2.begin(), s2.end());
-	
-	cout << s1 << "\t" << s2 << "\n";
 
 	for (int i = 0; i < s1.length(); i++) {
 		if (s1[i] != s2[i]) {
