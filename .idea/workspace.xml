@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="CompProg" targetName="bitmaskDP" />
+      <config projectName="CompProg" targetName="dpd" />
+      <config projectName="CompProg" targetName="nccc5j3s1" />
+      <config projectName="CompProg" targetName="sac22cc5jp4" />
+      <config projectName="CompProg" targetName="dpc" />
+      <config projectName="CompProg" targetName="dmopc14c5p3" />
+      <config projectName="CompProg" targetName="dpb" />
+      <config projectName="CompProg" targetName="triwayseg1" />
+      <config projectName="CompProg" targetName="dpa" />
+      <config projectName="CompProg" targetName="bsspc21j4" />
+      <config projectName="CompProg" targetName="ccc22s2" />
+      <config projectName="CompProg" targetName="ccc03s1" />
+      <config projectName="CompProg" targetName="permutations" />
+      <config projectName="CompProg" targetName="ccc03s2" />
+      <config projectName="CompProg" targetName="bsspc21j2" />
+      <config projectName="CompProg" targetName="dmopc14c1p3" />
+      <config projectName="CompProg" targetName="aplusb" />
+      <config projectName="CompProg" targetName="ccc22j5" />
+      <config projectName="CompProg" targetName="dpo" />
+      <config projectName="CompProg" targetName="dpl" />
+      <config projectName="CompProg" targetName="dpj" />
+      <config projectName="CompProg" targetName="ccc07j3" />
+      <config projectName="CompProg" targetName="ccc07j4" />
+      <config projectName="CompProg" targetName="ccc07j5" />
+      <config projectName="CompProg" targetName="bpc1j3" />
+      <config projectName="CompProg" targetName="mwc15c1p1" />
+      <config projectName="CompProg" targetName="dpe" />
+      <config projectName="CompProg" targetName="palindromereorder" />
+      <config projectName="CompProg" targetName="ccc10s1" />
+      <config projectName="CompProg" targetName="vmss7wc16c3p3" />
+      <config projectName="CompProg" targetName="ncc1j4s2" />
+      <config projectName="CompProg" targetName="bf3" />
+      <config projectName="CompProg" targetName="ccc14s1" />
+      <config projectName="CompProg" targetName="dpz" />
+      <config projectName="CompProg" targetName="bf1" />
+      <config projectName="CompProg" targetName="ccc14s2" />
+      <config projectName="CompProg" targetName="sssp" />
+      <config projectName="CompProg" targetName="vmss15c1p4" />
+      <config projectName="CompProg" targetName="rectangle" />
+      <config projectName="CompProg" targetName="c231pA" />
+      <config projectName="CompProg" targetName="trailingzeros" />
+      <config projectName="CompProg" targetName="ccc00s1" />
+      <config projectName="CompProg" targetName="ccc23s1" />
+      <config projectName="CompProg" targetName="ccc00s2" />
+      <config projectName="CompProg" targetName="ccc23s3" />
+      <config projectName="CompProg" targetName="ccc23s2" />
+      <config projectName="CompProg" targetName="ccc23s4" />
+      <config projectName="CompProg" targetName="ccc23j2" />
+      <config projectName="CompProg" targetName="ccc23j1" />
+      <config projectName="CompProg" targetName="cco12p2" />
+      <config projectName="CompProg" targetName="ccc23j3" />
+      <config projectName="CompProg" targetName="ccc04j3" />
+      <config projectName="CompProg" targetName="ccc23j5" />
+      <config projectName="CompProg" targetName="mccc1j4" />
+      <config projectName="CompProg" targetName="missingnumber" />
+      <config projectName="CompProg" targetName="dmopc19c5p1" />
+      <config projectName="CompProg" targetName="twoknights" />
+      <config projectName="CompProg" targetName="usaco20marb1" />
+      <config projectName="CompProg" targetName="coinpiles" />
+      <config projectName="CompProg" targetName="acmtryouts0a" />
+      <config projectName="CompProg" targetName="crci06p1" />
+      <config projectName="CompProg" targetName="coci18c4p2" />
+      <config projectName="CompProg" targetName="usaco2020c12Bp1" />
+      <config projectName="CompProg" targetName="ccc11s2" />
+      <config projectName="CompProg" targetName="deathgun" />
+      <config projectName="CompProg" targetName="ccc11j3" />
+      <config projectName="CompProg" targetName="valday15p2" />
+      <config projectName="CompProg" targetName="mccc2s2" />
+      <config projectName="CompProg" targetName="ccc11j4" />
+      <config projectName="CompProg" targetName="sac21ccp4" />
+      <config projectName="CompProg" targetName="ccc15j3" />
+      <config projectName="CompProg" targetName="binary" />
+      <config projectName="CompProg" targetName="year2015p1" />
+      <config projectName="CompProg" targetName="rectanglecounting" />
+      <config projectName="CompProg" targetName="cco20p1" />
+      <config projectName="CompProg" targetName="dwite07c3p1" />
+      <config projectName="CompProg" targetName="dmopc18c2p1" />
+      <config projectName="CompProg" targetName="ccc20s2" />
+      <config projectName="CompProg" targetName="dmopc18c2p3" />
+      <config projectName="CompProg" targetName="bssmc23p4" />
+      <config projectName="CompProg" targetName="ccc05s1" />
+      <config projectName="CompProg" targetName="bssmc23p2" />
+      <config projectName="CompProg" targetName="bts17p2" />
+      <config projectName="CompProg" targetName="ccc05s2" />
+      <config projectName="CompProg" targetName="ccc17s4" />
+      <config projectName="CompProg" targetName="bitstrings" />
+      <config projectName="CompProg" targetName="hkccc08j3" />
+      <config projectName="CompProg" targetName="gfssoc3s3" />
+      <config projectName="CompProg" targetName="twosets" />
+      <config projectName="CompProg" targetName="helloworld" />
+      <config projectName="CompProg" targetName="ccc05j4" />
+      <config projectName="CompProg" targetName="oly18novp3" />
+      <config projectName="CompProg" targetName="ccc05j5" />
+      <config projectName="CompProg" targetName="ccc09j1" />
+      <config projectName="CompProg" targetName="mwc15c3p3" />
+      <config projectName="CompProg" targetName="lcs" />
+      <config projectName="CompProg" targetName="treepractice1" />
+      <config projectName="CompProg" targetName="dp1p1" />
+      <config projectName="CompProg" targetName="ccc12s1" />
+      <config projectName="CompProg" targetName="a1" />
+      <config projectName="CompProg" targetName="cheerio3p1" />
+      <config projectName="CompProg" targetName="ccc12s3" />
+      <config projectName="CompProg" targetName="ccc12s2" />
+      <config projectName="CompProg" targetName="ccc12s5" />
+      <config projectName="CompProg" targetName="ccc12s4" />
+      <config projectName="CompProg" targetName="ccc16s3" />
+      <config projectName="CompProg" targetName="coci20c6p1" />
+      <config projectName="CompProg" targetName="dmopc17c1p3" />
+      <config projectName="CompProg" targetName="ccc12j4" />
+      <config projectName="CompProg" targetName="ccc09s4" />
+      <config projectName="CompProg" targetName="ccc12j3" />
+      <config projectName="CompProg" targetName="c546pA" />
+      <config projectName="CompProg" targetName="dmopc14c4p6" />
+      <config projectName="CompProg" targetName="gfssoc2j4" />
+      <config projectName="CompProg" targetName="ccc21s1" />
+      <config projectName="CompProg" targetName="ccc21s2" />
+      <config projectName="CompProg" targetName="dwite10c1p2" />
+      <config projectName="CompProg" targetName="ncc3j4s2" />
+      <config projectName="CompProg" targetName="ccc18s2" />
+      <config projectName="CompProg" targetName="ccc21j3" />
+      <config projectName="CompProg" targetName="weirdalgorithm" />
+      <config projectName="CompProg" targetName="gfssoc2s4" />
+      <config projectName="CompProg" targetName="ccc06j4" />
+      <config projectName="CompProg" targetName="spree" />
+      <config projectName="CompProg" targetName="usaco20janb1" />
+      <config projectName="CompProg" targetName="aac1p1" />
+      <config projectName="CompProg" targetName="repetitions" />
+      <config projectName="CompProg" targetName="dmopc20c4p3" />
+      <config projectName="CompProg" targetName="numberspiral" />
+      <config projectName="CompProg" targetName="oly20practice126" />
+      <config projectName="CompProg" targetName="ccc13s2" />
+      <config projectName="CompProg" targetName="ccc13s1" />
+      <config projectName="CompProg" targetName="ccc13s4" />
+      <config projectName="CompProg" targetName="ccc06s3" />
+      <config projectName="CompProg" targetName="increasingarray" />
+      <config projectName="CompProg" targetName="ccc13j4" />
+      <config projectName="CompProg" targetName="dmopc21c6p1" />
+      <config projectName="CompProg" targetName="sleigh" />
+      <config projectName="CompProg" targetName="hkccc15j3" />
+      <config projectName="CompProg" targetName="bsspc22c1p1" />
+      <config projectName="CompProg" targetName="acc5p3" />
+      <config projectName="CompProg" targetName="ccc17j4" />
+      <config projectName="CompProg" targetName="bsspc22c1p5" />
+      <config projectName="CompProg" targetName="ecoo21p3" />
+      <config projectName="CompProg" targetName="bsspc22c1p4" />
+      <config projectName="CompProg" targetName="ecoo21p2" />
+      <config projectName="CompProg" targetName="bsspc22c1p3" />
+      <config projectName="CompProg" targetName="bsspc22c1p2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a11811a0-267b-4d3b-b40d-dba22af1a4ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CompProg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BSSCC/bssmc23p2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BSSCC/bssmc23p4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/bitstrings.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/coinpiles.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/increasingarray.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/missingnumber.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/numberspiral.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/palindromereorder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/permutations.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/repetitions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/trailingzeros.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/twoknights.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/twosets.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/weirdalgorithm.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/c231pA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/c546pA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/a1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/aac1p1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/acc5p3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/acmtryouts0a.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/aplusb.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bf1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bf3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/binary.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bpc1j3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bsspc21j2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bsspc21j4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bsspc22c1p1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bsspc22c1p2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bsspc22c1p3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bsspc22c1p4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bsspc22c1p5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/bts17p2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc00s1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc00s2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc03s1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc03s2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc04j3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc05j4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc05s1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc05s2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc06j4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc06s3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc07j3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc07j4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc07j5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc09j1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc09s4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc10s1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc11j3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc11j4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc11s2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc12s5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc13s4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc15s4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc17j4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc17s4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc18s2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc20s2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc21s1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc22j5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc22s2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc23j1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc23j2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc23j3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc23j5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc23s1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc23s2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc23s3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ccc23s4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/cco12p2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/cheerio3p1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/coci20c6p1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dmopc14c1p3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dmopc17c1p3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dmopc18c2p1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dmopc18c2p3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dp1p1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dpa.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dpb.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dpc.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dpd.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dpe.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/dpz.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ecoo21p2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/ecoo21p3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/gfssoc2j4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/gfssoc2s4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/lcs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/mccc1j4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/mccc2s2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/mwc15c3p3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/nccc5j3s1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/oly20practice126.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/sac21ccp4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/spree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/sssp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/valday15p2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/vmss15c1p4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DMOJ/vmss7wc16c3p3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USACO/usaco2020c12Bp1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/a1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/aac1p1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/acc5p3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/acmtryouts0a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/aplusb.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/bf1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/bf3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/bsspc21j2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/bsspc22c1p1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/bsspc22c1p2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/bsspc22c1p3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/bsspc22c1p4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc00s1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc03s1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc04j3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc05j5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc05j5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc06j4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc06s3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc07j4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc09j1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc11j3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc11s2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc12j3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc12j3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc12j4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc12j4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc12s1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc12s1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc12s2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc12s2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc12s3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc12s3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc13j4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc13j4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc13s1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc13s1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc13s2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc13s2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc14s1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc14s1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc14s2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc14s2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc15j3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc15j3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc16s3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc16s3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc21j3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc21j3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ccc21s2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/ccc21s2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/cco20p1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/cco20p1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/coci18c4p2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/coci18c4p2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/crci06p1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/crci06p1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dmopc14c4p6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dmopc14c4p6.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dmopc14c5p3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dmopc14c5p3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dmopc19c5p1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dmopc19c5p1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dmopc20c4p3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dmopc20c4p3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dmopc21c6p1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dmopc21c6p1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dpj.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dpj.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dpl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dpl.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dpo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dpo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dwite07c3p1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dwite07c3p1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/dwite10c1p2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/dwite10c1p2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/gfssoc3s3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/gfssoc3s3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/helloworld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/helloworld.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/hkccc08j3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/hkccc08j3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/hkccc15j3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/hkccc15j3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/mwc15c1p1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/mwc15c1p1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/nccc1j4s2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/nccc1j4s2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/nccc3j4s2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/nccc3j4s2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/oly18novp3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/oly18novp3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/rectanglecounting.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/rectanglecounting.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/sac22cc5jp4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/sac22cc5jp4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/sleigh.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/sleigh.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/treepractice1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/treepractice1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/triwayseg1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/triwayseg1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/usaco20janb1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/usaco20janb1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/year2015p1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ/year2015p1.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="2QZXTCXdoJ2aHVPpPGtkpTAjnmY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\noahs\OneDrive\Documents\GitHub\CompProg\Codeforces" />
+      <recent name="C:\Users\noahs\OneDrive\Documents\GitHub\CompProg\Problems" />
+      <recent name="C:\Users\noahs\OneDrive\Documents\GitHub\CompProg\DMOJ - VMSS 15" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.ecoo21p3">
+    <configuration name="a1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="a1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="a1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aac1p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="aac1p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="aac1p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="acc5p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="acc5p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="acc5p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="acmtryouts0a" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="acmtryouts0a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="acmtryouts0a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aplusb" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="aplusb" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="aplusb">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bf1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bf1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bf1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bf3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bf3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bf3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="binary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="binary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bitmaskDP" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bitmaskDP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bitmaskDP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bitstrings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bitstrings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bitstrings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bpc1j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bpc1j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bpc1j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bssmc23p2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bssmc23p2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bssmc23p2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bssmc23p4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bssmc23p4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bssmc23p4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsspc21j2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bsspc21j2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bsspc21j2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsspc21j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bsspc21j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bsspc21j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsspc22c1p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bsspc22c1p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bsspc22c1p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsspc22c1p2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bsspc22c1p2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bsspc22c1p2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsspc22c1p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bsspc22c1p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bsspc22c1p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsspc22c1p4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bsspc22c1p4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bsspc22c1p4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsspc22c1p5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bsspc22c1p5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bsspc22c1p5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bts17p2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="bts17p2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="bts17p2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c231pA" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="c231pA" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="c231pA">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c546pA" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="c546pA" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="c546pA">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc00s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc00s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc00s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc00s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc00s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc00s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc03s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc03s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc03s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc03s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc03s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc03s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc04j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc04j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc04j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc05j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc05j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc05j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc05j5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc05j5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc05j5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc05s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc05s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc05s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc05s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc05s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc05s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc06j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc06j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc06j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc06s3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc06s3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc06s3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc07j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc07j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc07j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc07j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc07j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc07j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc07j5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc07j5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc07j5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc09j1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc09j1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc09j1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc09s4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc09s4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc09s4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc10s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc10s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc10s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc11j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc11j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc11j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc11j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc11j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc11j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc11s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc11s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc11s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc12j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc12j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc12j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc12j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc12j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc12j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc12s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc12s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc12s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc12s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc12s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc12s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc12s3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc12s3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc12s3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc12s4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc12s4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc12s4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc12s5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc12s5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc12s5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc13j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc13j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc13j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc13s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc13s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc13s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc13s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc13s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc13s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc13s4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc13s4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc13s4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc14s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc14s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc14s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc14s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc14s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc14s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc15j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc15j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc15j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc16s3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc16s3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc16s3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc17j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc17j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc17j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc17s4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc17s4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc17s4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc18s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc18s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc18s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc20s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc20s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc20s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc21j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc21j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc21j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc21s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc21s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc21s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc21s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc21s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc21s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc22j5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc22j5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc22j5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc22s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc22s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc22s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc23j1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc23j1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc23j1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc23j2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc23j2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc23j2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc23j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc23j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc23j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc23j5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc23j5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc23j5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc23s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc23s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc23s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc23s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc23s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc23s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc23s3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc23s3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc23s3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ccc23s4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ccc23s4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ccc23s4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cco12p2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="cco12p2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="cco12p2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cco20p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="cco20p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="cco20p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cheerio3p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="cheerio3p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="cheerio3p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coci18c4p2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="coci18c4p2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="coci18c4p2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coci20c6p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="coci20c6p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="coci20c6p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coinpiles" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="coinpiles" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="coinpiles">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="crci06p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="crci06p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="crci06p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deathgun" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="deathgun" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="deathgun">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmopc14c1p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dmopc14c1p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dmopc14c1p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmopc14c4p6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dmopc14c4p6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dmopc14c4p6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmopc14c5p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dmopc14c5p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dmopc14c5p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmopc17c1p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dmopc17c1p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dmopc17c1p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmopc18c2p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dmopc18c2p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dmopc18c2p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmopc18c2p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dmopc18c2p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dmopc18c2p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmopc19c5p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dmopc19c5p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dmopc19c5p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmopc20c4p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dmopc20c4p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dmopc20c4p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmopc21c6p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dmopc21c6p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dmopc21c6p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dp1p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dp1p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dp1p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dpa" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dpa" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dpa">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dpb" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dpb" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dpb">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dpc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dpc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dpc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dpd" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dpd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dpd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dpe" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dpe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dpe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dpj" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dpj" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dpj">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dpl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dpl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dpl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dpo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dpo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dpo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dpz" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dpz" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dpz">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dwite07c3p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dwite07c3p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dwite07c3p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dwite10c1p2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="dwite10c1p2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="dwite10c1p2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ecoo21p2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ecoo21p2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ecoo21p2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ecoo21p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ecoo21p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ecoo21p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gfssoc2j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="gfssoc2j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="gfssoc2j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gfssoc2s4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="gfssoc2s4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="gfssoc2s4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gfssoc3s3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="gfssoc3s3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="gfssoc3s3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloworld" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="helloworld" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="helloworld">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hkccc08j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="hkccc08j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="hkccc08j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hkccc15j3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="hkccc15j3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="hkccc15j3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="increasingarray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="increasingarray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="increasingarray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="lcs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="lcs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mccc1j4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="mccc1j4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="mccc1j4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mccc2s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="mccc2s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="mccc2s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="missingnumber" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="missingnumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="missingnumber">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mwc15c1p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="mwc15c1p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="mwc15c1p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mwc15c3p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="mwc15c3p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="mwc15c3p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ncc1j4s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ncc1j4s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ncc1j4s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ncc3j4s2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="ncc3j4s2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="ncc3j4s2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nccc5j3s1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="nccc5j3s1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="nccc5j3s1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="numberspiral" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="numberspiral" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="numberspiral">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oly18novp3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="oly18novp3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="oly18novp3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oly20practice126" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="oly20practice126" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="oly20practice126">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindromereorder" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="palindromereorder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="palindromereorder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="permutations" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="permutations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="permutations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rectangle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="rectangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="rectangle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rectanglecounting" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="rectanglecounting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="rectanglecounting">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="repetitions" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="repetitions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="repetitions">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sac21ccp4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="sac21ccp4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="sac21ccp4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sac22cc5jp4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="sac22cc5jp4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="sac22cc5jp4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sleigh" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="sleigh" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="sleigh">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="spree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="spree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sssp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="sssp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="sssp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trailingzeros" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="trailingzeros" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="trailingzeros">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="treepractice1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="treepractice1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="treepractice1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triwayseg1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="triwayseg1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="triwayseg1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoknights" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="twoknights" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="twoknights">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twosets" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="twosets" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="twosets">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usaco2020c12Bp1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="usaco2020c12Bp1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="usaco2020c12Bp1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usaco20janb1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="usaco20janb1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="usaco20janb1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usaco20marb1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="usaco20marb1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="usaco20marb1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="valday15p2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="valday15p2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="valday15p2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vmss15c1p4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="vmss15c1p4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="vmss15c1p4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vmss7wc16c3p3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="vmss7wc16c3p3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="vmss7wc16c3p3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weirdalgorithm" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="weirdalgorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="weirdalgorithm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="year2015p1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CompProg" TARGET_NAME="year2015p1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CompProg" RUN_TARGET_NAME="year2015p1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.a1" />
+      <item itemvalue="CMake Application.aac1p1" />
+      <item itemvalue="CMake Application.acc5p3" />
+      <item itemvalue="CMake Application.acmtryouts0a" />
+      <item itemvalue="CMake Application.aplusb" />
+      <item itemvalue="CMake Application.bf1" />
+      <item itemvalue="CMake Application.bf3" />
+      <item itemvalue="CMake Application.binary" />
+      <item itemvalue="CMake Application.bitmaskDP" />
+      <item itemvalue="CMake Application.bitstrings" />
+      <item itemvalue="CMake Application.bpc1j3" />
+      <item itemvalue="CMake Application.bssmc23p2" />
+      <item itemvalue="CMake Application.bssmc23p4" />
+      <item itemvalue="CMake Application.bsspc21j2" />
+      <item itemvalue="CMake Application.bsspc21j4" />
+      <item itemvalue="CMake Application.bsspc22c1p1" />
+      <item itemvalue="CMake Application.bsspc22c1p2" />
+      <item itemvalue="CMake Application.bsspc22c1p3" />
+      <item itemvalue="CMake Application.bsspc22c1p4" />
+      <item itemvalue="CMake Application.bsspc22c1p5" />
+      <item itemvalue="CMake Application.bts17p2" />
+      <item itemvalue="CMake Application.c231pA" />
+      <item itemvalue="CMake Application.c546pA" />
+      <item itemvalue="CMake Application.ccc00s1" />
+      <item itemvalue="CMake Application.ccc00s2" />
+      <item itemvalue="CMake Application.ccc03s1" />
+      <item itemvalue="CMake Application.ccc03s2" />
+      <item itemvalue="CMake Application.ccc04j3" />
+      <item itemvalue="CMake Application.ccc05j4" />
+      <item itemvalue="CMake Application.ccc05j5" />
+      <item itemvalue="CMake Application.ccc05s1" />
+      <item itemvalue="CMake Application.ccc05s2" />
+      <item itemvalue="CMake Application.ccc06j4" />
+      <item itemvalue="CMake Application.ccc06s3" />
+      <item itemvalue="CMake Application.ccc07j3" />
+      <item itemvalue="CMake Application.ccc07j4" />
+      <item itemvalue="CMake Application.ccc07j5" />
+      <item itemvalue="CMake Application.ccc09j1" />
+      <item itemvalue="CMake Application.ccc09s4" />
+      <item itemvalue="CMake Application.ccc10s1" />
+      <item itemvalue="CMake Application.ccc11j3" />
+      <item itemvalue="CMake Application.ccc11j4" />
+      <item itemvalue="CMake Application.ccc11s2" />
+      <item itemvalue="CMake Application.ccc12j3" />
+      <item itemvalue="CMake Application.ccc12j4" />
+      <item itemvalue="CMake Application.ccc12s1" />
+      <item itemvalue="CMake Application.ccc12s2" />
+      <item itemvalue="CMake Application.ccc12s3" />
+      <item itemvalue="CMake Application.ccc12s4" />
+      <item itemvalue="CMake Application.ccc12s5" />
+      <item itemvalue="CMake Application.ccc13j4" />
+      <item itemvalue="CMake Application.ccc13s1" />
+      <item itemvalue="CMake Application.ccc13s2" />
+      <item itemvalue="CMake Application.ccc13s4" />
+      <item itemvalue="CMake Application.ccc14s1" />
+      <item itemvalue="CMake Application.ccc14s2" />
+      <item itemvalue="CMake Application.ccc15j3" />
+      <item itemvalue="CMake Application.ccc16s3" />
+      <item itemvalue="CMake Application.ccc17j4" />
+      <item itemvalue="CMake Application.ccc17s4" />
+      <item itemvalue="CMake Application.ccc18s2" />
+      <item itemvalue="CMake Application.ccc20s2" />
+      <item itemvalue="CMake Application.ccc21j3" />
+      <item itemvalue="CMake Application.ccc21s1" />
+      <item itemvalue="CMake Application.ccc21s2" />
+      <item itemvalue="CMake Application.ccc22j5" />
+      <item itemvalue="CMake Application.ccc22s2" />
+      <item itemvalue="CMake Application.ccc23j1" />
+      <item itemvalue="CMake Application.ccc23j2" />
+      <item itemvalue="CMake Application.ccc23j3" />
+      <item itemvalue="CMake Application.ccc23j5" />
+      <item itemvalue="CMake Application.ccc23s1" />
+      <item itemvalue="CMake Application.ccc23s2" />
+      <item itemvalue="CMake Application.ccc23s3" />
+      <item itemvalue="CMake Application.ccc23s4" />
+      <item itemvalue="CMake Application.cco12p2" />
+      <item itemvalue="CMake Application.cco20p1" />
+      <item itemvalue="CMake Application.cheerio3p1" />
+      <item itemvalue="CMake Application.coci18c4p2" />
+      <item itemvalue="CMake Application.coci20c6p1" />
+      <item itemvalue="CMake Application.coinpiles" />
+      <item itemvalue="CMake Application.crci06p1" />
+      <item itemvalue="CMake Application.deathgun" />
+      <item itemvalue="CMake Application.dmopc14c1p3" />
+      <item itemvalue="CMake Application.dmopc14c4p6" />
+      <item itemvalue="CMake Application.dmopc14c5p3" />
+      <item itemvalue="CMake Application.dmopc17c1p3" />
+      <item itemvalue="CMake Application.dmopc18c2p1" />
+      <item itemvalue="CMake Application.dmopc18c2p3" />
+      <item itemvalue="CMake Application.dmopc19c5p1" />
+      <item itemvalue="CMake Application.dmopc20c4p3" />
+      <item itemvalue="CMake Application.dmopc21c6p1" />
+      <item itemvalue="CMake Application.dp1p1" />
+      <item itemvalue="CMake Application.dpa" />
+      <item itemvalue="CMake Application.dpb" />
+      <item itemvalue="CMake Application.dpc" />
+      <item itemvalue="CMake Application.dpd" />
+      <item itemvalue="CMake Application.dpe" />
+      <item itemvalue="CMake Application.dpj" />
+      <item itemvalue="CMake Application.dpl" />
+      <item itemvalue="CMake Application.dpo" />
+      <item itemvalue="CMake Application.dpz" />
+      <item itemvalue="CMake Application.dwite07c3p1" />
+      <item itemvalue="CMake Application.dwite10c1p2" />
+      <item itemvalue="CMake Application.ecoo21p2" />
+      <item itemvalue="CMake Application.ecoo21p3" />
+      <item itemvalue="CMake Application.gfssoc2j4" />
+      <item itemvalue="CMake Application.gfssoc2s4" />
+      <item itemvalue="CMake Application.gfssoc3s3" />
+      <item itemvalue="CMake Application.helloworld" />
+      <item itemvalue="CMake Application.hkccc08j3" />
+      <item itemvalue="CMake Application.hkccc15j3" />
+      <item itemvalue="CMake Application.increasingarray" />
+      <item itemvalue="CMake Application.lcs" />
+      <item itemvalue="CMake Application.mccc1j4" />
+      <item itemvalue="CMake Application.mccc2s2" />
+      <item itemvalue="CMake Application.missingnumber" />
+      <item itemvalue="CMake Application.mwc15c1p1" />
+      <item itemvalue="CMake Application.mwc15c3p3" />
+      <item itemvalue="CMake Application.ncc1j4s2" />
+      <item itemvalue="CMake Application.ncc3j4s2" />
+      <item itemvalue="CMake Application.nccc5j3s1" />
+      <item itemvalue="CMake Application.numberspiral" />
+      <item itemvalue="CMake Application.oly18novp3" />
+      <item itemvalue="CMake Application.oly20practice126" />
+      <item itemvalue="CMake Application.palindromereorder" />
+      <item itemvalue="CMake Application.permutations" />
+      <item itemvalue="CMake Application.rectangle" />
+      <item itemvalue="CMake Application.rectanglecounting" />
+      <item itemvalue="CMake Application.repetitions" />
+      <item itemvalue="CMake Application.sac21ccp4" />
+      <item itemvalue="CMake Application.sac22cc5jp4" />
+      <item itemvalue="CMake Application.sleigh" />
+      <item itemvalue="CMake Application.spree" />
+      <item itemvalue="CMake Application.sssp" />
+      <item itemvalue="CMake Application.trailingzeros" />
+      <item itemvalue="CMake Application.treepractice1" />
+      <item itemvalue="CMake Application.triwayseg1" />
+      <item itemvalue="CMake Application.twoknights" />
+      <item itemvalue="CMake Application.twosets" />
+      <item itemvalue="CMake Application.usaco2020c12Bp1" />
+      <item itemvalue="CMake Application.usaco20janb1" />
+      <item itemvalue="CMake Application.usaco20marb1" />
+      <item itemvalue="CMake Application.valday15p2" />
+      <item itemvalue="CMake Application.vmss15c1p4" />
+      <item itemvalue="CMake Application.vmss7wc16c3p3" />
+      <item itemvalue="CMake Application.weirdalgorithm" />
+      <item itemvalue="CMake Application.year2015p1" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a11811a0-267b-4d3b-b40d-dba22af1a4ca" name="Changes" comment="" />
+      <created>1685562086041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685562086041</updated>
+      <workItem from="1685562091073" duration="1537000" />
+      <workItem from="1685628677230" duration="6868000" />
+      <workItem from="1685716713779" duration="2601000" />
+      <workItem from="1685922232286" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
