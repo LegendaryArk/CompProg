@@ -45,6 +45,9 @@
 cmake-build-*/
 CMakeLists.txt
 
+# Compilation Files
+*.exe
+
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
