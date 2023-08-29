@@ -41,10 +41,6 @@
 # *.iml
 # *.ipr
 
-# CMake
-cmake-build-*/
-CMakeLists.txt
-
 # Compilation Files
 *.exe
 
