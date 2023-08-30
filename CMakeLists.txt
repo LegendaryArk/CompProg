@@ -180,5 +180,4 @@ add_executable(oly19practice54 DMOJ/oly19practice54.cpp)
 add_executable(oly23practice26 DMOJ/oly23practice26.cpp)
 add_executable(oly23practice31 DMOJ/oly23practice31.cpp)
 add_executable(bts18p2 DMOJ/bts18p2.cpp)
-
-add_executable(motionprofilingTest motionprofilingTest.cpp)
+add_executable(FlowerGarden Sunflowers/FlowerGarden.cpp)
