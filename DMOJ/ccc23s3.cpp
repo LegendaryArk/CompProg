@@ -1,53 +1,71 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int MM = 2000;
-int N, M, R, C;
+const int MM = 2005;
+int n, m, r, c;
 char mp[MM][MM];
+
+bool isEven(int a) {
+	return (a & 1) == 0;
+}
+
+void setCol(int a, char b) {
+	for (int i = 1; i <= n; i++) mp[i][a] = b;
+}
+void setRow(int a, char b) {
+	for (int i = 1; i <= m; i++) mp[a][i] = b;
+}
 
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
 
-	cin >> N >> M >> R >> C;
-	for (int r = 1; r <= R; r++) {
-		for (int c = 1; c <= M; c++) {
-			mp[r][c] = 'a';
-		}
-	}
-	for (int c = 1; c <= C; c++) {
-		for (int r = 1; r <= N; r++) {
-			mp[r][c] = 'a';
-		}
-	}
-	for (int r = R + 1; r <= N; r++) {
-		for (int c = C + 1; c <= M; c++) {
-			mp[r][c] = 'b';
-		}
-	}
-	if (R == 0) mp[0][M] = 'c';
-	if (C == 0) mp[C][N] = 'c';
+	cin >> n >> m >> r >> c;
 
-	int row = N, col = M;
-	for (int r = 1; r <= N; r++) {
-		for (int c = 1; c < M / 2; c++) {
-			if (mp[r][c] != mp[r][M - c + 1]) row--;
+	for (int i = 1; i <= n; i++) {
+		for (int j = 1; j <= m; j++) {
+			if (i <= r || j <= c) mp[i][j] = 'a';
+			else mp[i][j] = 'b';
 		}
 	}
-	for (int c = 1; c <= M; c++) {
-		for (int r = 1; r < N / 2; r++) {
-			if (mp[r][c] != mp[N - r + 1][c]) col--;
-		}
+
+	bool flipped = false;
+	if (c == 0 || c == n) {
+		flipped = true;
+		swap(r, c);
+		swap(n, m);
 	}
-	if (row != R || col != C) cout << "IMPOSSIBLE\n";
-	else {
-		for (int r = 1; r <= N; r++) {
-			for (int c = 1; c <= M; c++) {
-				cout << mp[r][c];
+	if (r == 0) {
+		for (int i = 1; i <= m - 1; i++) {
+			setCol(i, 'a');
+		}
+		setCol(m, 'b');
+
+		for (int i = 0; i <= m - c; i++) {
+			mp[n][i] = 'c';
+		}
+		if (c == 0) mp[n][1] = 'd';
+	} else if (r == n) {
+		memset(mp, 'a', sizeof(mp));
+
+		if (isEven(m) && !isEven(c)) { cout << "IMPOSSIBLE\n"; return 0; }
+
+		if (c != m) {
+			for (int i = 1; i <= (m - c) / 2; i++) {
+				mp[1][i] = mp[1][m - i + 1] = 'b';
 			}
-			cout << "\n";
+			if (isEven(c)) mp[1][m / 2 + 1] = 'b';
 		}
 	}
+
+	if (flipped) swap(n, m);
+	for (int i = 1; i <= n; i++) {
+		for (int j = 1; j <= m; j++) {
+			cout << mp[i][j];
+		}
+		cout << "\n";
+	}
+
 
 	return 0;
 }
