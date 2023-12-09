@@ -1,54 +1,37 @@
 #include <bits/stdc++.h>
-
 using namespace std;
 
-typedef long long ll;
-typedef pair<int, int> pii;
-typedef vector<int> vi;
-typedef vector<double> vd;
-typedef vector<bool> vb;
-typedef vector<pii> vp;
-
-#define f first
-#define s second
-
-const ll MOD = 1e9 + 7;
-const ll INF = 0x3f;
-const double PI = acos((double) -1);
-
-#define BIT_SET(a, b) ((a) |= (1ULL << (b))
-#define BIT_CLEAR(a, b) ((a) &= ~(1ULL << (b))
-#define BIT_FLIP(a, b) ((a) ^= (1ULL << (b))
-#define BIT_CHECK(a, b) (!!((a) & (1ULL << (b)))
-
-const int MM = 5e5+5;
-int N, T, dp[MM][MM];
-pii t[105];
+const int MM = 105;
+int N, T, r[MM], c[MM];
 
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
 
 	cin >> N >> T;
-	for (int i = 0, r, c; i < T; i++) {
-		cin >> r >> c;
-		dp[r][c] = -1;
-		t[i] = {r, c};
-	}
+	for (int i = 0; i < T; i++) cin >> r[i] >> c[i];
+	r[T] = c[T] = 0; r[T + 1] = c[T + 1] = N + 1;
 
-	for (int r = 1; r <= N; r++) {
-		for (int c = 1; c <= N; c++) {
-			if (dp[r][c] == -1) continue;
+	int ans = 0;
+	for (int i = 0; i < T + 3; i++) {
+		for (int j = i + 1; j < T + 3; j++) {
+			int left = min(c[i], r[j]), right = max(c[i], r[j]);
 
-			for (int i = 0; i < T; i++) {
-				if (r == t[i].f || c == t[i].s) goto nxt;
+			vector<int> middle;
+			for (int k = 0; k < T + 3; k++) {
+				if (left < c[k] && right > c[k]) middle.push_back(r[k]);
 			}
 
-			
+			middle.push_back(0); middle.push_back(N + 1);
+			sort(middle.begin(), middle.end());
 
-			nxt:;
+			for (int k = 1; k < middle.size(); k++)  {
+				int height = middle[k] - middle[k - 1] - 1, width = right - left - 1;
+				ans = max(ans, min(width, height));
+			}
 		}
 	}
+	cout << ans << "\n";
 
 	return 0;
 }
